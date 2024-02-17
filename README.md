@@ -62,5 +62,3 @@ return (
 
 Utilizing the `useMemo` hook in React applications, especially those dealing with large datasets or computationally expensive operations, can significantly improve performance. By memoizing the result of operations that depend on unchanged inputs, React can skip unnecessary recalculations, leading to faster rendering and an overall smoother user experience.
 ```
-
-This is structured to explain the functionalities of each part of the code, focusing on how `useMemo` helps in optimizing the application's performance when dealing with large datasets.
